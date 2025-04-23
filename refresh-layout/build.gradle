@@ -19,4 +19,4 @@ dependencies {
     compileOnly deps.support.design
 }
 
-apply from: "https://raw.githubusercontent.com/xuexiangjys/XUtil/master/JitPackUpload.gradle"
+apply from: '../JitPackUpload.gradle'
